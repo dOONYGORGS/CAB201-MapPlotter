@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\bin\Debug\MapPlotting.exe.config
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\bin\Debug\MapPlotting.exe
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\bin\Debug\MapPlotting.pdb
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\obj\Debug\MapPlotting.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\obj\Debug\MapPlotting.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\obj\Debug\MapPlotting.exe
+C:\Users\jacob\source\repos\MapPlotting\MapPlotting\obj\Debug\MapPlotting.pdb
